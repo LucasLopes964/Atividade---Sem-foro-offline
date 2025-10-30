@@ -4,8 +4,8 @@ A imagem abaixo mostra que durante a montagem do circuito, usei o Arduino Uno co
 
 ![Montagem física](assets/IMAGEM1.jpeg)
 
-[Assistir ao Vídeo](assets/VIDEO1.mp4)
-
+### Assistir ao Vídeo
+https://www.youtube.com/shorts/kS82U51a7BU
 
 ---
 
