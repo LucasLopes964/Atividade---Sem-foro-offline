@@ -1,3 +1,5 @@
+![Montagem física](assets/IMAGEM1.jpeg)
+
 Avaliador: guilherme schimit
 
 ### Tabela de Avaliação entre Pares
