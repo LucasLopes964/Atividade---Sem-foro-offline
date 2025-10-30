@@ -1,4 +1,8 @@
+A imagem abaixo mostra que durante a montagem do circuito, usei o Arduino Uno conectado a três LEDs (vermelho, amarelo e verde), cada um com seu resistor, seguindo a proposta. Durante o processo, precisei trocar alguns componentes que estavam com defeito, como resistores e jumpers, para garantir o bom funcionamento do circuito. Após os ajustes, o sistema funcionou corretamente, com os LEDs acendendo conforme o código.
+
 ![Montagem física](assets/IMAGEM1.jpeg)
+
+---
 
 Avaliador: guilherme schimit
 
